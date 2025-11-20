@@ -2,9 +2,8 @@
 2a
 3ab
 4a
-<<<<<<< HEAD
+
 5a
 caasdasdasd
-=======
-5aaaaaa
->>>>>>> master
+
+
